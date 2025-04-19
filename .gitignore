@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch checkpoints and model weights
+*.pt
+*.pth
+
+# Hugging Face cache and token files
+.cache/
+huggingface/
+*.huggingface-token
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Logs
+wandb/
+*.log
+*.log.*
+
+# Colab and Google Drive mounts
+/content/drive/
+drive/
+
+# Datasets and audio files
+*.wav
+*.mp3
+*.flac
+data/
+datasets/
+*.csv
+
+# Results and output files
+*.out
+*.tmp
+*.bak
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook hidden state
+.ipynb_checkpoints/
+
+# Python virtualenv
+*.egg-info/
+dist/
+build/
