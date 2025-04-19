@@ -40,10 +40,6 @@ All audio was resampled to 16kHz and converted to mono format. Missing audio fil
 dementia-detection-wav2vec2/
 ├── data/                     # CSVs and metadata
 ├── notebooks/                # Jupyter notebooks (training + evaluation)
-├── scripts/                  # Modular training/eval scripts
-├── models/                   # Saved model checkpoints
-├── results/                  # Plots and logs
-├── figures/                  # Pipeline and evaluation visualizations
 ├── report/                   # Midterm/Final writeups
 ├── requirements.txt
 ├── README.md
